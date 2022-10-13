@@ -18,8 +18,8 @@ metadata:
     backstage.io/techdocs-ref: dir:.
     lighthouse.com/website-url: https://backstage.io
     backstage.io/managed-by-location: "file:/tmp/catalog-info.yaml"
-    snyk.io/org-name: dollopofsunshine
-    snyk.io/project-ids: "fc0c5aeb-b3a7-4fe1-9e5d-a7b0834cd3b4"
+    snyk.io/org-name: 6ebdbf06-00cc-48b0-946c-4dc4785c6093
+    snyk.io/project-ids: fc0c5aeb-b3a7-4fe1-9e5d-a7b0834cd3b4
 spec:
   type: library
   owner: CNCF
